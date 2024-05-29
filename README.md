@@ -16,3 +16,15 @@
 1. Floating Point and Math
 1. Formatted Output with DecimalFormat
    Formatted Output with print()
+
+## Part 4: Branches and Loops
+1. The if Statement
+2. The Single Branch if Statement
+3. Boolean Expressions
+4. Loops and the while Statement
+5. Counting Loops
+6. Nesting Loops and lfs
+7. Sentinel-controlled Lopps
+8. Result-controlled Loops
+9. The for Statement
+10. More about the for Statement
