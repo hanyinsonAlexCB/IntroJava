@@ -6,5 +6,6 @@ public class DoubleJeopardy {
         int valor2 = 132;
         System.out.println("A double: " + value);
         System.out.println("A double: " + valor2);
+        System.out.println((value >= valor2));
     }
 }
